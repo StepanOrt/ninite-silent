@@ -1,0 +1,12 @@
+[Language]
+id=0405
+
+[Translation]
+singleton_check=Pøed pokraèováním musí být ukonèeny všechny spuštìné instalace Ninite!
+update_done=Instalace programù dokonèena
+after_finish_question=Co chcete po dokonèení instalací provést?
+ninite_not_exist=Soubor instalátoru Ninite neexistuje!
+-1=Nic
+1=Vypnout
+32=Uspat
+64=Hibernovat
